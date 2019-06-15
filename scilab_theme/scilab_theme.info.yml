@@ -1,0 +1,25 @@
+name: scilab theme
+type: theme
+base theme: stable
+description: innovative theme
+core: 8.x
+libraries:
+   - scilab_theme/global-styling
+   - scilab_theme/global-scripts
+   - scilab_theme/bootstrap
+   - scilab_theme/fontawesome
+   - scilab_theme/image
+
+regions:
+   header: 'Header'
+   content: 'Content'
+   sidebar_second: 'Left sidebar'
+   sidebar_first: 'Right sidebar'
+   primary_menu: 'Primary menu'
+   secondary_menu: 'Secondary menu'
+   footer: 'Footer'
+   highlighted: 'Highlighted'
+   help: 'Help'
+   breadcrumb: 'Breadcrumb'
+   scilab_corousal: 'scilab Corousal'
+   banner: 'Banner'

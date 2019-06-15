@@ -1,0 +1,35 @@
+.jumbotron {
+    padding: 0.5em 0.6em;
+    h1 {
+        font-size: 2em ;
+            }
+    p {
+        font-size: 1.2em;
+
+        .btn {
+            padding: 0.5em;
+        }
+    }
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+
+/* #scilab_theme_nav .navbar-nav li > a {
+	text-transform: capitalize;
+	color: #333;
+	transition: background-color .2s, color .2s;
+
+	&:hover
+	&:focus {
+		background-color: #333;
+		color: #fff;
+	}
+}
+
+#scilab_theme_nav .navbar-nav li.active > a {
+	background-color: #333;
+	color: #fff;
+} */
